@@ -61,6 +61,25 @@ Gracias al análisis exahustivo del dataset hemos podido estudiar el comportamie
 
 
 # 📌 Conclusiones del Análisis de Homicidios en USA (2011-2014)
+1. Los meses de verano, especialmente julio y agosto, presentan más asesinatos. De este modo, verano es la estación con más probabilidad de que suceda una asesinato.
+
+2. California, Texas y Florida son el top tres de lugares con más homicidios. 
+Destaca la diferencia de edad media entre víctima y criminal en North California, seguida de Michigan y Texas. 
+
+
+3. La mayoría de los homicidas son hombres de raza "Blanca", con edad media de 34-35 años. 
+
+4.  La mayoría de las víctimas han sido hombres de raza "Negra" , además son los más jóvenes.
+
+5.  Hay mas víctimas de 0-9 años que de 60-100 años. 
+
+6. Los homicidas de las víctimas de 10-19 tienen su misma edad, por lo que podríamos interpretar 'School shooting' como causa . La causa principal de muerte de menores es la violencia armada.
+
+7. El rango de edad más frecuente de los homicidas y las victmas es de 20-29. 
+
+8. Las armas más utilizadas son las de fuego, seguida de los cuchillos.
+ 
+9. Hay más probabilidades de que sea un asesinato no passional, a manos de un desconocido.
 
 # Enlace a la presentación del análisis: 
 https://prezi.com/view/NG9VRmgEWZ2DeAxqszWN/
