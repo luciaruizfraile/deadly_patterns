@@ -59,38 +59,13 @@ Gracias al análisis exahustivo del dataset hemos podido estudiar el comportamie
 
 <br>
 
-## MVP 
-- Categoría de producto dentro del sector de la cosmética 
-- Popularidad: Variable clave, formulada con la suma del número de loves y los comentarios positivos de la plataforma. 
-- Menor riesgo: Cuándo la diferencia entre los comentarios positivos y negativos es mayor. 
-- Precio medio: Desde los 0 usd hasta productos de lujo (+120 usd).
-
-Otras variables útiles para llegar a las gráficas que nos responden a nuestras inquietudes: 
-- Reviews counts 
-- Comentarios negativos 
-- Comentarios positivos 
-- Rating 
-
 
 # 📌 Conclusiones del Análisis de Homicidios en USA (2011-2014)
 
-
+# Enlace a la presentación del análisis: 
+https://prezi.com/view/NG9VRmgEWZ2DeAxqszWN/
 
 </details>
-
-## 🔧 Próximos pasos estratégicos:
-</details>
-Con el objetivo de seguir consolidando una propuesta de valor sólida y diferencial, abordaremos nuevas líneas de análisis centradas en la comprensión profunda del mercado y la anticipación de tendencias:
-
-- 
-
-- 
-
-- 
-
-- 
-
-- 
 
 </details>
 
