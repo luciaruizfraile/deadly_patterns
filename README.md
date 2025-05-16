@@ -40,8 +40,27 @@ Antes de empezar este proyecto debes saber:
 
 <br>
 <hr> 
+<details>
+  
+<details>
+  <summary>
+   <h2>Pequeña guía de conexiones y archivos</h2>
+  </summary>
+La base de datos principal (schema) es "deadly_patterns_db.sql", que contiene otras 4 tablas:
+  
+1. Incident 
+2. Perpetrators
+3. Relationship 
+4. Victims
 
-</details>
+Esta información nace del dataset de Kaggle nombrado "database.csv.zip". 
+
+En nuestro código de Python encontrarás la conexión de SQL a Python para poder realizar las visualizaciones en gráficos de estos datos manipulados anteriormente en SQL. 
+
+Debes tener en cuenta que te pedirán tu usuario y contraseña de MySql. 
+
+<br>
+<hr>
 
 ## Introducción
 
